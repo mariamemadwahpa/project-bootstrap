@@ -1,0 +1,649 @@
+<!DOCTYPE html>
+<!-- saved from url=(0044)https://preview.colorlib.com/theme/startup2/ -->
+<html class="js sizes customelements history pointerevents postmessage webgl websockets cssanimations csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside flexbox picture srcset webworkers" lang="zxx"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<title>StartUp</title>
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+<link rel="stylesheet" href="./StartUp_files/bootstrap.min.css">
+<link rel="stylesheet" href="./StartUp_files/owl.carousel.min.css">
+<link rel="stylesheet" href="./StartUp_files/magnific-popup.css">
+<link rel="stylesheet" href="./StartUp_files/font-awesome.min.css">
+<link rel="stylesheet" href="./StartUp_files/themify-icons.css">
+<link rel="stylesheet" href="./StartUp_files/nice-select.css">
+<link rel="stylesheet" href="./StartUp_files/flaticon.css">
+<link rel="stylesheet" href="./StartUp_files/gijgo.css">
+<link rel="stylesheet" href="./StartUp_files/animate.min.css">
+<link rel="stylesheet" href="./StartUp_files/slick.css">
+<link rel="stylesheet" href="./StartUp_files/slicknav.css">
+<link rel="stylesheet" href="./StartUp_files/style.css">
+
+<script type="text/javascript" async="" src="./StartUp_files/analytics.js.download" nonce="3b6fabb8-4233-4cc8-a6e7-a625658b4d71"></script><script defer="" referrerpolicy="origin" src="./StartUp_files/s.js.download"></script><script nonce="3b6fabb8-4233-4cc8-a6e7-a625658b4d71">(function(w,d){!function(dk,dl,dm,dn){dk[dm]=dk[dm]||{};dk[dm].executed=[];dk.zaraz={deferred:[],listeners:[]};dk.zaraz.q=[];dk.zaraz._f=function(dp){return function(){var dq=Array.prototype.slice.call(arguments);dk.zaraz.q.push({m:dp,a:dq})}};for(const dr of["track","set","debug"])dk.zaraz[dr]=dk.zaraz._f(dr);dk.zaraz.init=()=>{var ds=dl.getElementsByTagName(dn)[0],dt=dl.createElement(dn),du=dl.getElementsByTagName("title")[0];du&&(dk[dm].t=dl.getElementsByTagName("title")[0].text);dk[dm].x=Math.random();dk[dm].w=dk.screen.width;dk[dm].h=dk.screen.height;dk[dm].j=dk.innerHeight;dk[dm].e=dk.innerWidth;dk[dm].l=dk.location.href;dk[dm].r=dl.referrer;dk[dm].k=dk.screen.colorDepth;dk[dm].n=dl.characterSet;dk[dm].o=(new Date).getTimezoneOffset();if(dk.dataLayer)for(const dy of Object.entries(Object.entries(dataLayer).reduce(((dz,dA)=>({...dz[1],...dA[1]})))))zaraz.set(dy[0],dy[1],{scope:"page"});dk[dm].q=[];for(;dk.zaraz.q.length;){const dB=dk.zaraz.q.shift();dk[dm].q.push(dB)}dt.defer=!0;for(const dC of[localStorage,sessionStorage])Object.keys(dC||{}).filter((dE=>dE.startsWith("_zaraz_"))).forEach((dD=>{try{dk[dm]["z_"+dD.slice(7)]=JSON.parse(dC.getItem(dD))}catch{dk[dm]["z_"+dD.slice(7)]=dC.getItem(dD)}}));dt.referrerPolicy="origin";dt.src="/cdn-cgi/zaraz/s.js?z="+btoa(encodeURIComponent(JSON.stringify(dk[dm])));ds.parentNode.insertBefore(dt,ds)};["complete","interactive"].includes(dl.readyState)?zaraz.init():dk.addEventListener("DOMContentLoaded",zaraz.init)}(w,d,"zarazData","script");})(window,document);</script></head>
+<body>
+<!--[if lte IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+        <![endif]-->
+
+<header>
+<div class="header-area ">
+<div id="sticky-header" class="main-header-area sticky">
+<div class="container-fluid p-0">
+<div class="row align-items-center no-gutters">
+<div class="col-xl-2 col-lg-2">
+<div class="logo-img">
+<a href="https://preview.colorlib.com/theme/startup2/index.html">
+<img src="./StartUp_files/logo.png" alt="">
+</a>
+</div>
+</div>
+<div class="col-xl-8 col-lg-8">
+<div class="main-menu  d-none d-lg-block text-center">
+<nav>
+<ul id="navigation">
+<li><a class="active" href="https://preview.colorlib.com/theme/startup2/index.html">home</a></li>
+<li><a href="https://preview.colorlib.com/theme/startup2/service.html">services</a></li>
+<li><a href="https://preview.colorlib.com/theme/startup2/Portfolio.html">Portfolio</a></li>
+<li><a href="https://preview.colorlib.com/theme/startup2/#">pages <i class="ti-angle-down"></i></a>
+<ul class="submenu">
+<li><a href="https://preview.colorlib.com/theme/startup2/portfolio_details.html">Portfolio details</a></li>
+<li><a href="https://preview.colorlib.com/theme/startup2/about.html">about</a></li>
+<li><a href="https://preview.colorlib.com/theme/startup2/elements.html">elements</a></li>
+</ul>
+</li>
+<li><a href="https://preview.colorlib.com/theme/startup2/#">blog <i class="ti-angle-down"></i></a>
+<ul class="submenu">
+<li><a href="https://preview.colorlib.com/theme/startup2/blog.html">blog</a></li>
+<li><a href="https://preview.colorlib.com/theme/startup2/single-blog.html">single-blog</a></li>
+</ul>
+</li>
+<li><a href="https://preview.colorlib.com/theme/startup2/contact.html">Contact</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="col-lg-2 d-none d-lg-block">
+<div class="log_chat_area d-flex align-items-end">
+<a href="https://preview.colorlib.com/theme/startup2/#" data-scroll-nav="0" class="say_hi">Say Hello</a>
+</div>
+</div>
+<div class="col-12">
+<div class="mobile_menu d-block d-lg-none"><div class="slicknav_menu"><a href="https://preview.colorlib.com/theme/startup2/#" aria-haspopup="true" role="button" tabindex="0" class="slicknav_btn slicknav_collapsed" style="outline: none;"><span class="slicknav_menutxt">MENU</span><span class="slicknav_icon"><span class="slicknav_icon-bar"></span><span class="slicknav_icon-bar"></span><span class="slicknav_icon-bar"></span></span></a><ul class="slicknav_nav slicknav_hidden" aria-hidden="true" role="menu" style="display: none;">
+<li><a class="active" href="https://preview.colorlib.com/theme/startup2/index.html" role="menuitem" tabindex="-1">home</a></li>
+<li><a href="https://preview.colorlib.com/theme/startup2/service.html" role="menuitem" tabindex="-1">services</a></li>
+<li><a href="https://preview.colorlib.com/theme/startup2/Portfolio.html" role="menuitem" tabindex="-1">Portfolio</a></li>
+<li class="slicknav_collapsed slicknav_parent"><a href="https://preview.colorlib.com/theme/startup2/#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item slicknav_row" style="outline: none;"><a href="https://preview.colorlib.com/theme/startup2/#" tabindex="-1">pages <i class="ti-angle-down"></i></a>
+<span class="slicknav_arrow">+</span></a><ul class="submenu slicknav_hidden" role="menu" aria-hidden="true" style="display: none;">
+<li><a href="https://preview.colorlib.com/theme/startup2/portfolio_details.html" role="menuitem" tabindex="-1">Portfolio details</a></li>
+<li><a href="https://preview.colorlib.com/theme/startup2/about.html" role="menuitem" tabindex="-1">about</a></li>
+<li><a href="https://preview.colorlib.com/theme/startup2/elements.html" role="menuitem" tabindex="-1">elements</a></li>
+</ul>
+</li>
+<li class="slicknav_collapsed slicknav_parent"><a href="https://preview.colorlib.com/theme/startup2/#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item slicknav_row" style="outline: none;"><a href="https://preview.colorlib.com/theme/startup2/#" tabindex="-1">blog <i class="ti-angle-down"></i></a>
+<span class="slicknav_arrow">+</span></a><ul class="submenu slicknav_hidden" role="menu" aria-hidden="true" style="display: none;">
+<li><a href="https://preview.colorlib.com/theme/startup2/blog.html" role="menuitem" tabindex="-1">blog</a></li>
+<li><a href="https://preview.colorlib.com/theme/startup2/single-blog.html" role="menuitem" tabindex="-1">single-blog</a></li>
+</ul>
+</li>
+<li><a href="https://preview.colorlib.com/theme/startup2/contact.html" role="menuitem" tabindex="-1">Contact</a></li>
+</ul></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+
+
+<div class="slider_area">
+<div class="single_slider  d-flex align-items-center slider_bg_1 overlay">
+<div class="container">
+<div class="row align-items-center justify-content-start">
+<div class="col-lg-10 col-md-10">
+<div class="slider_text">
+<h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.1s;">
+Startup you can build a
+website online using the
+Bootstrap builder.
+</h3>
+<a class="boxed-btn3 wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s" href="https://preview.colorlib.com/theme/startup2/portfolio.html" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s;">Visit Our Works</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="service_area">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-lg-6">
+<div class="section_title text-center mb-70">
+<span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.1s; animation-name: fadeInUp;">Services</span>
+<h3 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 1.2s; animation-delay: 0.2s;">With more than 20 years of
+experience we can deliver the
+best product design.</h3>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xl-4 col-md-4">
+<div class="single_service text-center wow fadeInLeft" data-wow-duration="1.2s" data-wow-delay=".4s" style="visibility: visible; animation-duration: 1.2s; animation-delay: 0.4s;">
+<div class="icon">
+<img src="./StartUp_files/1.svg" alt="">
+</div>
+<h3>Graphic design</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor.</p>
+</div>
+</div>
+<div class="col-xl-4 col-md-4">
+<div class="single_service text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s;">
+<div class="icon">
+<img src="./StartUp_files/2.svg" alt="">
+</div>
+<h3>Web design</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor.</p>
+</div>
+</div>
+<div class="col-xl-4 col-md-4">
+<div class="single_service text-center wow fadeInRight" data-wow-duration="1.2s" data-wow-delay=".4s" style="visibility: visible; animation-duration: 1.2s; animation-delay: 0.4s;">
+<div class="icon">
+<img src="./StartUp_files/3.svg" alt="">
+</div>
+<h3>Mobile app</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="about_area">
+<div class="container">
+<div class="row justify-content-end">
+<div class="col-lg-5 offset-lg-1">
+<div class="about_info">
+<div class="section_title white_text">
+<span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s;">About Us</span>
+<h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s;">Empowering individuals </h3>
+<p class="mid_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s;">Efficiently unleash cross-media tour function information without cross action media value. Quickly maximize timely deliverables for real-time schemas.</p>
+<p class="last_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s; animation-name: fadeInUp;">“Function information without cross action media value.</p>
+<a href="https://preview.colorlib.com/theme/startup2/#" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.7s;">About Us</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="portfolio_image_area">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-lg-6">
+<div class="section_title text-center mb-90">
+<h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s;">Featured Works</h3>
+<p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s;">Tour function information without cross action media value quickly maximize timely deliverables.</p>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-8 col-md-12">
+<div class="single_Portfolio wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s;">
+<div class="portfolio_thumb">
+<img src="./StartUp_files/1.png" alt="">
+</div>
+<div class="portfolio_hover">
+<div class="title">
+<span>App Design</span>
+<h3>Colorlib Mobile App</h3>
+<a class="boxed-btn3" href="https://preview.colorlib.com/theme/startup2/portfolio_details.html">View</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single_Portfolio wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s;">
+<div class="portfolio_thumb">
+<img src="./StartUp_files/2.png" alt="">
+</div>
+<div class="portfolio_hover">
+<div class="title">
+<span>App Design</span>
+<h3>Colorlib Mobile App</h3>
+<a class="boxed-btn3" href="https://preview.colorlib.com/theme/startup2/portfolio_details.html">View</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-lg-4">
+<div class="single_Portfolio wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s;">
+<div class="portfolio_thumb">
+<img src="./StartUp_files/3.png" alt="">
+</div>
+<div class="portfolio_hover">
+<div class="title">
+<span>App Design</span>
+<h3>Colorlib Mobile App</h3>
+<a class="boxed-btn3" href="https://preview.colorlib.com/theme/startup2/portfolio_details.html">View</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-lg-4">
+<div class="single_Portfolio wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s;">
+<div class="portfolio_thumb">
+<img src="./StartUp_files/4.png" alt="">
+</div>
+<div class="portfolio_hover">
+<div class="title">
+<span>App Design</span>
+<h3>Colorlib Mobile App</h3>
+<a class="boxed-btn3" href="https://preview.colorlib.com/theme/startup2/portfolio_details.html">View</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-lg-4">
+<div class="single_Portfolio wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.7s;">
+<div class="portfolio_thumb">
+<img src="./StartUp_files/5.png" alt="">
+</div>
+<div class="portfolio_hover">
+<div class="title">
+<span>App Design</span>
+<h3>Colorlib Mobile App</h3>
+<a class="boxed-btn3" href="https://preview.colorlib.com/theme/startup2/portfolio_details.html">View</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="how_we_work_area">
+<div class="container">
+<div class="row">
+<div class="col-lg-5">
+<div class="work_info">
+<div class="section_title">
+<h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s;">How we work</h3>
+<p class="mid_text wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s;">“Function information without cross action media value.</p>
+<p class="last_p wow fadeInRight" data-wow-duration="1s" data-wow-delay=".5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s;">Efficiently unleash cross-media tour function information without cross action media value. Quickly maximize timely deliverables for real-time schemas.</p>
+</div>
+<div class="video_watch d-flex align-items-center">
+<div class="play_btn wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s;">
+<a href="https://www.youtube.com/watch?v=D7tF-cY2M9o" class="video_icon popup-video"> <i class="fa fa-play"></i> </a>
+</div>
+<span class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".7s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.7s;"> Watch Video</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="team_area ">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-lg-6">
+<div class="section_title text-center mb-90">
+<h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s;">Our Creative Team</h3>
+<p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s;">Tour function information without cross action media value quickly maximize timely deliverables.</p>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-3 col-md-6">
+<div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s;">
+<div class="team_thumb">
+<img src="./StartUp_files/1(1).png" alt="">
+<div class="team_hover">
+<div class="hover_inner text-center">
+<ul>
+<li><a href="https://preview.colorlib.com/theme/startup2/#"> <i class="fa fa-facebook"></i> </a></li>
+<li><a href="https://preview.colorlib.com/theme/startup2/#"> <i class="fa fa-twitter"></i> </a></li>
+<li><a href="https://preview.colorlib.com/theme/startup2/#"> <i class="fa fa-instagram"></i> </a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="team_title text-center">
+<h3>Brandon Yeald</h3>
+<p>Founder &amp; CEO</p>
+ </div>
+</div>
+</div>
+<div class="col-lg-3 col-md-6">
+<div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s;">
+<div class="team_thumb">
+<img src="./StartUp_files/2(1).png" alt="">
+<div class="team_hover">
+<div class="hover_inner text-center">
+<ul>
+<li><a href="https://preview.colorlib.com/theme/startup2/#"> <i class="fa fa-facebook"></i> </a></li>
+<li><a href="https://preview.colorlib.com/theme/startup2/#"> <i class="fa fa-linkedin"></i> </a></li>
+<li><a href="https://preview.colorlib.com/theme/startup2/#"> <i class="fa fa-google-plus"></i> </a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="team_title text-center">
+<h3>Calvin Anderson</h3>
+<p>Graphics Designer</p>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-md-6">
+<div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s;">
+<div class="team_thumb">
+<img src="./StartUp_files/3(1).png" alt="">
+<div class="team_hover">
+<div class="hover_inner text-center">
+<ul>
+<li><a href="https://preview.colorlib.com/theme/startup2/#"> <i class="fa fa-facebook"></i> </a></li>
+<li><a href="https://preview.colorlib.com/theme/startup2/#"> <i class="fa fa-linkedin"></i> </a></li>
+<li><a href="https://preview.colorlib.com/theme/startup2/#"> <i class="fa fa-google-plus"></i> </a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="team_title text-center">
+<h3>Roman Solo</h3>
+<p>Wordpress Developer</p>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-md-6">
+<div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.8s;">
+<div class="team_thumb">
+<img src="./StartUp_files/4(1).png" alt="">
+<div class="team_hover">
+<div class="hover_inner text-center">
+<ul>
+<li><a href="https://preview.colorlib.com/theme/startup2/#"> <i class="fa fa-facebook"></i> </a></li>
+<li><a href="https://preview.colorlib.com/theme/startup2/#"> <i class="fa fa-linkedin"></i> </a></li>
+<li><a href="https://preview.colorlib.com/theme/startup2/#"> <i class="fa fa-google-plus"></i> </a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="team_title text-center">
+<h3>Yeald Kin</h3>
+<p>Software Engineer</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="testimonial_area ">
+<div class="container">
+<div class="row">
+<div class="col-xl-12">
+<div class="testmonial_active owl-carousel owl-loaded owl-drag">
+
+
+
+<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2220px, 0px, 0px); transition: all 0s ease 0s; width: 7770px;"><div class="owl-item cloned" style="width: 1110px;"><div class="single_carousel">
+<div class="single_testmonial text-center">
+<div class="quote">
+<img src="./StartUp_files/quote.svg" alt="">
+</div>
+<p>Donec imperdiet congue orci consequat mattis. Donec rutrum porttitor <br>
+sollicitudin. Pellentesque id dolor tempor sapien feugiat ultrices nec sed neque. <br>
+Fusce ac mattis nulla. Morbi eget ornare dui. </p>
+<div class="testmonial_author">
+<div class="thumb">
+<img src="./StartUp_files/thumb.png" alt="">
+</div>
+<h3>Robert Thomson</h3>
+<span>Business Owner</span>
+</div>
+</div>
+</div></div><div class="owl-item cloned" style="width: 1110px;"><div class="single_carousel">
+<div class="single_testmonial text-center">
+<div class="quote">
+<img src="./StartUp_files/quote.svg" alt="">
+</div>
+<p>Donec imperdiet congue orci consequat mattis. Donec rutrum porttitor <br>
+sollicitudin. Pellentesque id dolor tempor sapien feugiat ultrices nec sed neque. <br>
+Fusce ac mattis nulla. Morbi eget ornare dui. </p>
+<div class="testmonial_author">
+<div class="thumb">
+<img src="./StartUp_files/thumb.png" alt="">
+</div>
+<h3>Robert Thomson</h3>
+<span>Business Owner</span>
+</div>
+</div>
+</div></div><div class="owl-item active" style="width: 1110px;"><div class="single_carousel">
+<div class="single_testmonial text-center">
+<div class="quote">
+<img src="./StartUp_files/quote.svg" alt="">
+</div>
+<p>Donec imperdiet congue orci consequat mattis. Donec rutrum porttitor <br>
+sollicitudin. Pellentesque id dolor tempor sapien feugiat ultrices nec sed neque. <br>
+Fusce ac mattis nulla. Morbi eget ornare dui. </p>
+<div class="testmonial_author">
+<div class="thumb">
+<img src="./StartUp_files/thumb.png" alt="">
+</div>
+<h3>Robert Thomson</h3>
+<span>Business Owner</span>
+</div>
+</div>
+</div></div><div class="owl-item" style="width: 1110px;"><div class="single_carousel">
+<div class="single_testmonial text-center">
+<div class="quote">
+<img src="./StartUp_files/quote.svg" alt="">
+</div>
+<p>Donec imperdiet congue orci consequat mattis. Donec rutrum porttitor <br>
+sollicitudin. Pellentesque id dolor tempor sapien feugiat ultrices nec sed neque. <br>
+Fusce ac mattis nulla. Morbi eget ornare dui. </p>
+<div class="testmonial_author">
+<div class="thumb">
+<img src="./StartUp_files/thumb.png" alt="">
+</div>
+<h3>Robert Thomson</h3>
+<span>Business Owner</span>
+</div>
+</div>
+</div></div><div class="owl-item" style="width: 1110px;"><div class="single_carousel">
+<div class="single_testmonial text-center">
+<div class="quote">
+<img src="./StartUp_files/quote.svg" alt="">
+</div>
+<p>Donec imperdiet congue orci consequat mattis. Donec rutrum porttitor <br>
+sollicitudin. Pellentesque id dolor tempor sapien feugiat ultrices nec sed neque. <br>
+Fusce ac mattis nulla. Morbi eget ornare dui. </p>
+<div class="testmonial_author">
+<div class="thumb">
+<img src="./StartUp_files/thumb.png" alt="">
+</div>
+<h3>Robert Thomson</h3>
+<span>Business Owner</span>
+</div>
+</div>
+</div></div><div class="owl-item cloned" style="width: 1110px;"><div class="single_carousel">
+<div class="single_testmonial text-center">
+<div class="quote">
+<img src="./StartUp_files/quote.svg" alt="">
+</div>
+<p>Donec imperdiet congue orci consequat mattis. Donec rutrum porttitor <br>
+sollicitudin. Pellentesque id dolor tempor sapien feugiat ultrices nec sed neque. <br>
+Fusce ac mattis nulla. Morbi eget ornare dui. </p>
+<div class="testmonial_author">
+<div class="thumb">
+<img src="./StartUp_files/thumb.png" alt="">
+</div>
+<h3>Robert Thomson</h3>
+<span>Business Owner</span>
+</div>
+</div>
+</div></div><div class="owl-item cloned" style="width: 1110px;"><div class="single_carousel">
+<div class="single_testmonial text-center">
+<div class="quote">
+<img src="./StartUp_files/quote.svg" alt="">
+</div>
+<p>Donec imperdiet congue orci consequat mattis. Donec rutrum porttitor <br>
+sollicitudin. Pellentesque id dolor tempor sapien feugiat ultrices nec sed neque. <br>
+Fusce ac mattis nulla. Morbi eget ornare dui. </p>
+<div class="testmonial_author">
+<div class="thumb">
+<img src="./StartUp_files/thumb.png" alt="">
+</div>
+<h3>Robert Thomson</h3>
+<span>Business Owner</span>
+</div>
+</div>
+</div></div></div></div><div class="owl-nav disabled"><div class="owl-prev"><i class="ti-angle-left"></i></div><div class="owl-next"><i class="ti-angle-right"></i></div></div><div class="owl-dots disabled"></div></div>
+</div>
+</div>
+</div>
+</div>
+
+<div data-scroll-index="0" class="get_in_tauch_area">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-lg-6">
+<div class="section_title text-center mb-90">
+<h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s;">Get in Touch</h3>
+<p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s;">Tour function information without cross action media value quickly maximize timely deliverables.</p>
+</div>
+</div>
+</div>
+<div class="row justify-content-center">
+<div class="col-lg-8">
+<div class="touch_form">
+<form action="https://preview.colorlib.com/theme/startup2/#">
+<div class="row">
+<div class="col-md-6">
+<div class="single_input wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s;">
+<input type="text" placeholder="Your Name">
+</div>
+</div>
+<div class="col-md-6">
+<div class="single_input wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s;">
+<input type="email" placeholder="Email">
+</div>
+</div>
+<div class="col-md-12">
+<div class="single_input wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s;">
+<input type="email" placeholder="Subject">
+</div>
+</div>
+<div class="col-md-12">
+<div class="single_input wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s; animation-name: fadeInUp;">
+<textarea name="" id="" cols="30" placeholder="Message" rows="10"></textarea>
+</div>
+</div>
+<div class="col-lg-12">
+<div class="submit_btn wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.7s;">
+<button class="boxed-btn3" type="submit">Send Message</button>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<footer class="footer">
+<div class="footer_top">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-lg-2 col-md-3">
+<div class="footer_logo wow fadeInRight" data-wow-duration="1s" data-wow-delay=".3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s;">
+<a href="https://preview.colorlib.com/theme/startup2/index.html">
+<img src="./StartUp_files/logo.png" alt="">
+</a>
+</div>
+</div>
+<div class="col-xl-7 col-lg-7 col-md-9">
+<div class="menu_links">
+<ul>
+<li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".2s" href="https://preview.colorlib.com/theme/startup2/#" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s;">About</a></li>
+<li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".4s" href="https://preview.colorlib.com/theme/startup2/#" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s;">Services</a></li>
+<li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".6s" href="https://preview.colorlib.com/theme/startup2/#" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s;">Portfolio</a></li>
+<li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".8s" href="https://preview.colorlib.com/theme/startup2/#" style="visibility: visible; animation-duration: 1s; animation-delay: 0.8s;">Pages</a></li>
+<li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay="1s" href="https://preview.colorlib.com/theme/startup2/#" style="visibility: visible; animation-duration: 1s; animation-delay: 1s;">Blog</a></li>
+<li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay="1.1s" href="https://preview.colorlib.com/theme/startup2/#" style="visibility: visible; animation-duration: 1s; animation-delay: 1.1s;">Contact</a></li>
+</ul>
+</div>
+</div>
+<div class="col-lg-3 col-md-12">
+<div class="socail_links">
+<ul>
+<li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s" href="https://preview.colorlib.com/theme/startup2/#" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;"> <i class="fa fa-facebook"></i> </a></li>
+<li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s" href="https://preview.colorlib.com/theme/startup2/#" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeInUp;"> <i class="fa fa-twitter"></i> </a></li>
+<li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s" href="https://preview.colorlib.com/theme/startup2/#" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;"> <i class="fa fa-instagram"></i> </a></li>
+<li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s" href="https://preview.colorlib.com/theme/startup2/#" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s; animation-name: fadeInUp;"> <i class="fa fa-google-plus"></i> </a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="copy-right_text">
+<div class="container">
+<div class="footer_border"></div>
+<div class="row">
+<div class="col-xl-12">
+<p class="copy_right text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 1.3s;">
+
+Copyright ©<script>document.write(new Date().getFullYear());</script>2023 All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com/" target="_blank">Colorlib</a>
+
+</p>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+
+<script src="./StartUp_files/modernizr-3.5.0.min.js.download"></script>
+<script src="./StartUp_files/jquery-1.12.4.min.js.download"></script>
+<script src="./StartUp_files/popper.min.js.download"></script>
+<script src="./StartUp_files/bootstrap.min.js.download"></script>
+<script src="./StartUp_files/owl.carousel.min.js.download"></script>
+<script src="./StartUp_files/isotope.pkgd.min.js.download"></script>
+<script src="./StartUp_files/ajax-form.js.download"></script>
+<script src="./StartUp_files/waypoints.min.js.download"></script>
+<script src="./StartUp_files/jquery.counterup.min.js.download"></script>
+<script src="./StartUp_files/imagesloaded.pkgd.min.js.download"></script>
+<script src="./StartUp_files/scrollIt.js.download"></script>
+<script src="./StartUp_files/jquery.scrollUp.min.js.download"></script>
+<script src="./StartUp_files/wow.min.js.download"></script>
+<script src="./StartUp_files/nice-select.min.js.download"></script>
+<script src="./StartUp_files/jquery.slicknav.min.js.download"></script>
+<script src="./StartUp_files/jquery.magnific-popup.min.js.download"></script>
+<script src="./StartUp_files/plugins.js.download"></script>
+<script src="./StartUp_files/gijgo.min.js.download"></script>
+
+<script src="./StartUp_files/contact.js.download"></script>
+<script src="./StartUp_files/jquery.ajaxchimp.min.js.download"></script>
+<script src="./StartUp_files/jquery.form.js.download"></script>
+<script src="./StartUp_files/jquery.validate.min.js.download"></script>
+<script src="./StartUp_files/mail-script.js.download"></script>
+<script src="./StartUp_files/main.js.download"></script>
+
+<script async="" src="./StartUp_files/js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-23581568-13');
+</script>
+<script defer="" src="./StartUp_files/v52afc6f149f6479b8c77fa569edb01181681764108816" integrity="sha512-jGCTpDpBAYDGNYR5ztKt4BQPGef1P0giN6ZGVUi835kFF88FOmmn8jBQWNgrNd8g/Yu421NdgWhwQoaOPFflDw==" data-cf-beacon="{&quot;rayId&quot;:&quot;7c5b331aab72fd66&quot;,&quot;token&quot;:&quot;cd0b4b3a733644fc843ef0b185f98241&quot;,&quot;version&quot;:&quot;2023.4.0&quot;,&quot;si&quot;:100}" crossorigin="anonymous"></script>
+
+<a id="scrollUp" href="https://preview.colorlib.com/theme/startup2/#top" style="position: fixed; z-index: 2147483647;"><i class="fa fa-angle-double-up"></i></a></body></html>
