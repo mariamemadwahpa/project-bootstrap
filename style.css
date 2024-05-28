@@ -13,31 +13,28 @@
 }
  @media screen and (max-width: 900px) {
     .full-screen ,.server1{
-        height: 500px;
+        height: 600px;
     }
-}
- @media screen and (max-width: 900px) {
     .logo{
         background-color: black;
         margin: 0 !important;
         width: 100% !important;
         padding: 0% !important;
     }
-}
- @media screen and (max-width: 900px) {
+
     .say{
      display: none;
     }
-}
- @media screen and (max-width: 900px) {
+     
     .span-btu-nav{
      background-color: darkgray;
     }
-}
- @media screen and (max-width: 900px) {
+
     .image-card{
-display: none;    
-}
+    display: none;    
+    }
+      header h1 {
+        font-size: 32px;
 }
 
 h1{
@@ -56,11 +53,6 @@ header{
     top: 220px;
     padding-left: 120px !important;
 }
-@media screen and (max-width: 900px) {
-    header h1 {
-        font-size: 32px;
-    
-    }
   }
 .img-section-one{
     width: 56px;
